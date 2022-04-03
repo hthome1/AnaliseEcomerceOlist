@@ -1,0 +1,2 @@
+# Analisando reviews de compras online usando ferramentas de processamento de linguagem natural
+Analisando um dataset feito pela Olist Store, que contém informações acerca de 100 mil compras onlines feitas entre 2016 e 2018 em multiplos marketplaces no Brasil. A pergunta motriz da pesquisa será: Quais são os fatores acionáveis pela empresa que tipicamente levam clientes a darem avaliações ruins em compras? 
